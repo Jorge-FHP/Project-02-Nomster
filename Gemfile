@@ -55,3 +55,7 @@ gem 'will_paginate', '~> 3.1.1'
 
 #fimple form
 gem 'simple_form'
+
+#Font awesome
+gem 'font-awesome-sass'
+
