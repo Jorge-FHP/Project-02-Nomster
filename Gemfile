@@ -59,3 +59,5 @@ gem 'simple_form'
 #Font awesome
 gem 'font-awesome-sass'
 
+#Secure login devise gem
+gem 'devise'
