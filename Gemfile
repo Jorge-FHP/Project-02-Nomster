@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 2.5'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
+  gem 'pry'
 end
 
 group :development do
@@ -61,3 +62,9 @@ gem 'font-awesome-sass'
 
 #Secure login devise gem
 gem 'devise'
+
+#Geocoding gem to get map
+gem 'geocoder'
+
+#Figaro gem to make it easy to securely configure Rails applications
+gem 'figaro'
