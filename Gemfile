@@ -72,6 +72,8 @@ gem 'figaro'
 #Carrierwave provides way to upload files from ruby app
 gem 'carrierwave', '~> 1.0'
 
+gem 'fog'
+
 
 
 
