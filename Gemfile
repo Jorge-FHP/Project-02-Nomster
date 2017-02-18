@@ -68,3 +68,10 @@ gem 'geocoder'
 
 #Figaro gem to make it easy to securely configure Rails applications
 gem 'figaro'
+
+#Carrierwave provides way to upload files from ruby app
+gem 'carrierwave', '~> 1.0'
+
+
+
+
