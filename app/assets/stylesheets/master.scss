@@ -131,3 +131,22 @@ blockquote p {
   box-shadow: 0px 3px 8px #2a2a2a;
 }
 
+.wrap-word {
+  word-wrap: break-word;
+}
+
+.comment-backgrnd {
+  background: image_url('congruent_outline.png');
+}
+
+.user-backgrnd {
+  background: image_url('paisley.png');
+}
+
+.text-size {
+  font-size: 30px;
+}
+
+.color {
+  color: #33DBF5;
+}
